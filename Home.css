@@ -1,0 +1,42 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 72px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: AGaramondPro-Bold;
+  font-size: 1.875rem;
+  margin: 18px auto;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+} .u-section-2 {
+  min-height: 470px;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 470px;
+}
+
+.u-section-2 .u-custom-html-1 {
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-custom-html-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  height: auto;
+  min-height: 470px;
+}@font-face {
+  font-family: 'AGaramondPro-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/AGaramondPro-Bold.otf);
+}@font-face {
+  font-family: 'AGaramondPro-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/AGaramondPro-Regular.otf);
+}
