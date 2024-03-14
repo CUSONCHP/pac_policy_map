@@ -17,7 +17,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  height: 827px;
+  height: 850px;
 }
 
 .u-section-2 .u-custom-html-1 {
@@ -27,8 +27,7 @@
 .u-section-2 .u-custom-html-2 {
   margin-top: 0;
   margin-bottom: 0;
-  height: auto;
-  min-height: 827px;
+  height: 850;
 }@font-face {
   font-family: 'AGaramondPro-Bold';
   font-style: normal;
